@@ -1,0 +1,18 @@
+[
+    {
+        "email": "jantochan006@gmail.com",
+        "password": "Chan1994",
+        "proxy": "127.0.0.1:1088",
+        "stopTime": 5,
+        "port": "1080",
+        "server": "1388"
+    },
+    {
+        "email": "jantochan013@gmail.com",
+        "password": "Chan1994",
+        "proxy": "127.0.0.1:1082",
+        "stopTime": 5,
+        "port": "1082",
+        "server": "1389"
+    }
+]
